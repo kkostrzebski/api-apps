@@ -1,11 +1,11 @@
 
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route  } from 'react-router-dom';
-import Home from './components/Home/Home';
-import ActorDetails from './components/ActorGame/ActorDetails';
-import Navigation from './components/Home/Navigation';
+import Home from './Home/Home';
+import ActorDetails from './ActorGame/ActorDetails';
+import Navigation from './Home/Navigation';
 
-import StarWarsManagementTool from './components/StarWars/StarWarsManagementTool';
+import StarWarsManagementTool from './StarWars/StarWarsManagementTool';
 import './App.css'
 
 

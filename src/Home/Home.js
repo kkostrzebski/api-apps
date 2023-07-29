@@ -7,7 +7,7 @@ const Home = () => {
 	return (
 		<div className='home-container'>
 			<Link
-				to='/gra'
+				to='/game'
 				className='home-link-container background-image actor-link'
 				style={{ backgroundImage: `url(${Cinema})` }}>
 				<h2>One Actor</h2>
